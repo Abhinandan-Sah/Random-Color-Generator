@@ -9,11 +9,11 @@
  
  ###  ->Image1 (This is front page)
 
-![Alter Text](img/2.png)
+![Alter Text](img/2.PNG)
 
  ###  ->Image2 (After changing color)
 
-![Alter Text](img/1.png)
+![Alter Text](img/1.PNG)
 
 ## Live Demo link to the project
 -> [Get to the project](https://main--polite-otter-c235e0.netlify.app/)
