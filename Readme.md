@@ -9,12 +9,13 @@
  
  ###  ->Image1 (This is front page)
 
-![Alter Text](img/2.PNG)
-
+![2](https://github.com/Abhinandan-Sah/Random-Color-Generator/assets/118913466/0559e78e-f2c7-4602-87f9-bc2c8fe03d6d)
  ###  ->Image2 (After changing color)
 
-![Alter Text](img/1.PNG)
+![1](https://github.com/Abhinandan-Sah/Random-Color-Generator/assets/118913466/27793c9e-cd61-4b95-9dca-101d234f8339)
+
 
 ## Live Demo link to the project
--> [Get to the project](https://main--polite-otter-c235e0.netlify.app/)
+-> [Project Link](https://main--polite-otter-c235e0.netlify.app/)
+
 
