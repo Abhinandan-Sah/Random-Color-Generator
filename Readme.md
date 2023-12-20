@@ -16,5 +16,5 @@
 ![Alter Text](img/1.png)
 
 ## Live Demo link to the project
--> [Get to the project](https://www.linkedin.com/feed/  "Project Link")
+-> [Get to the project](https://main--polite-otter-c235e0.netlify.app/)
 
