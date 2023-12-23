@@ -50,4 +50,15 @@ p{
   cursor: pointer;
 }
 
+/* Media query for smaller screens */
+@media (max-width: 600px) {
+    body {
+        width: 80%; /* Adjusted width for smaller screens */
+        font-size: 20px; /* Adjusted font size for smaller screens */
+    }
 
+    div {
+        width: 100%; /* Full width for smaller screens */
+        max-width: none; /* No max-width for smaller screens */
+    }
+}
